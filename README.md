@@ -14,7 +14,7 @@ Les données peuvent être enregistrées dans un fichier au format MS Excel©, e
 
 L'application permet de créer et alimenter une base de données comportant les enregistrements de vos observations.
 Lors de la création d'une observation, votre localisation approximative vous permettra de déterminer le lieu de votre observation.
-Vous avez différents champs :\n
+Vous avez différents champs :
 Date : La date ajoutée automatiquement, mais modifiable.
 Heure : L'heure ajoutée automatiquement, mais modifiable.
 Localisation approximative : La localisation automatique du lieu de l’observation.
